@@ -1,0 +1,21 @@
+user_id,movie_id,date,rating,title,genre,year,name,date_of_birth,address
+1,101,2026-01-10,5,Inception,Sci-Fi,2010,Ali,1995-03-12,Berlin
+2,102,2026-01-12,4,Titanic,Romance,1997,Sara,1998-07-21,Munich
+3,101,2026-01-15,4,Inception,Sci-Fi,2010,John,1990-01-05,Hamburg
+1,104,2026-01-20,5,Interstellar,Sci-Fi,2014,Ali,1995-03-12,Berlin
+4,103,2026-01-22,3,Avatar,Sci-Fi,2009,Emma,2000-11-18,Frankfurt
+2,104,2026-01-25,4,Interstellar,Sci-Fi,2014,Sara,1998-07-21,Munich
+5,105,2026-01-27,5,The Matrix,Action,1999,David,1997-05-30,Cologne
+3,105,2026-01-28,4,The Matrix,Action,1999,John,1990-01-05,Hamburg
+6,106,2026-02-01,5,The Dark Knight,Action,2008,Ayesha,1996-09-14,Stuttgart
+7,107,2026-02-03,4,Forrest Gump,Drama,1994,Michael,1992-04-08,Dresden
+8,108,2026-02-05,3,Gladiator,Action,2000,Sofia,1999-12-02,Leipzig
+9,109,2026-02-07,5,The Lion King,Animation,1994,Ahmed,1994-06-25,Bremen
+10,110,2026-02-09,4,Joker,Drama,2019,Olivia,2001-02-17,Bonn
+4,101,2026-02-11,4,Inception,Sci-Fi,2010,Emma,2000-11-18,Frankfurt
+5,102,2026-02-13,5,Titanic,Romance,1997,David,1997-05-30,Cologne
+6,103,2026-02-15,3,Avatar,Sci-Fi,2009,Ayesha,1996-09-14,Stuttgart
+7,104,2026-02-17,5,Interstellar,Sci-Fi,2014,Michael,1992-04-08,Dresden
+8,106,2026-02-19,4,The Dark Knight,Action,2008,Sofia,1999-12-02,Leipzig
+9,107,2026-02-21,3,Forrest Gump,Drama,1994,Ahmed,1994-06-25,Bremen
+10,108,2026-02-23,5,Gladiator,Action,2000,Olivia,2001-02-17,Bonn
